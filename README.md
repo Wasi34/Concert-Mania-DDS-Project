@@ -1,7 +1,5 @@
 # Concert-Mania-DDS-Project
-Concert Mania is a concert management system where users can get information about 
-upcoming concerts in different places. It is a distributed database system project 
-usig SQL Plus.
+Concert Mania is a concert management system where users can get information about upcoming concerts in different places. It is a distributed database system (DDS) project which is made using SQL Plus.
 
 # Project features
 Admin’s Side:
